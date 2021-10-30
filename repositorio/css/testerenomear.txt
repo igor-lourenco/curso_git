@@ -1,6 +1,4 @@
-Enviando a funcionalidade C
-
-Enviando a funcionalidade X
+Atualização 
 
 Enviando a funcionalidade A 123
 Enviando a funcionalidade B 456 
@@ -8,3 +6,4 @@ Enviando a funcionalidade C 789
 Enviando a funcionalidade D 123
 Enviando a funcionalidade E 456 
 Enviando a funcionalidade F 789
+
