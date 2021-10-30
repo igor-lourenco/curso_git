@@ -1,5 +1,7 @@
 Atualização branch main 
 
+Funcionalidade D
+
 Enviando a funcionalidade A 123
 Enviando a funcionalidade B 456 
 Enviando a funcionalidade C 789
