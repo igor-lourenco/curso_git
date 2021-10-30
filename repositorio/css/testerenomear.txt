@@ -7,3 +7,5 @@ Enviando a funcionalidade D 123
 Enviando a funcionalidade E 456 
 Enviando a funcionalidade F 789
 
+Enviando a funcionalidade C
+
